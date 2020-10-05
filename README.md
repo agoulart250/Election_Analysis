@@ -4,7 +4,7 @@
  The purpose of this project is to create a python code to assist Seth and Tom in performing an election audit for selected counties in the state of Colorado and providing the results of their audit to the election commission.
 
 ## Election_Audit Results:
-![] (./Resources/election_results.png).
+![](./Resources/election_results.png).
 
 - How many votes were cast in this congressional election?
   A total of 369,711 votes were cast in this congressional election.
